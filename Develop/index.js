@@ -76,6 +76,12 @@ const questions = [
 
         {
             type: "input",
+            name: "languages",
+            message: "Which coding languages/libraries are used in this project?"
+        },
+
+        {
+            type: "input",
             name: "installation",
             message: "What commands should be used to install dependencies?"
         },

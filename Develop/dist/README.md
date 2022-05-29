@@ -1,22 +1,23 @@
-# Readme Generator
+# README generator
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
     
   ## Table-of-Contents
   * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
+  * [Installation Instructions](#installation)
+  * [Usage Information](#usage)
+  * [Languages](#languages)
   * [License](#license)
-  * [Contribution](#contribution)
-  * [Tests](#tests)
+  * [Contributing](#contribution)
+  * [Test Instructions](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
-  Takes user input to generate a readme file for a project
+  takes user input and generates a readme file
   ## [Installation](#table-of-contents)
   npm init, npm install inquirer
   ## [Usage](#table-of-contents)
-  required fields must be filled but it is reccommended to fill all fields
+  requires node.js
   
   ## 
   ## [License](#table-of-contents)
